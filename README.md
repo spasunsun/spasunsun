@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @spasunsun
+- 👀 I’m interested in rust
+- 🌱 I’m currently learning near
